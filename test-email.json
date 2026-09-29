@@ -1,0 +1,20 @@
+{
+  "type": "customer_confirmation",
+  "recipient": "israeltim86@gmail.com",
+  "recipientName": "Test Customer",
+  "orderNumber": "ORD-TEST-001",
+  "customerName": "Test Customer",
+  "customerPhone": "08000000000",
+  "customerWhatsapp": "08000000000",
+  "deliveryAddress": "Test Address",
+  "notes": "This is a test order.",
+  "totalAmount": 25000,
+  "items": [
+    {
+      "product_name": "Test Product",
+      "quantity": 2,
+      "unit_price": 12500,
+      "subtotal": 25000
+    }
+  ]
+}
